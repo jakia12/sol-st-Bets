@@ -7,7 +7,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: var(--e-global-color-secondary);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.653), rgba(0, 0, 0, 0.628)),
     url("/img/ban.webp");
   background-position: center center;
 
